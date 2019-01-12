@@ -1,0 +1,21 @@
+{
+  "name": "tt3",
+  "homepage": "https://github.com/zhuhuijun/20181212_jsmodule",
+  "authors": [
+    "zhuhuijun <zhuhuijun@beisen.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
